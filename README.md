@@ -1,7 +1,7 @@
 # Project-Alpha
 ---
 
-Yes, I know, this looks ridiculous, right? Well, here we are.
+######Yes, I know, this looks ridiculous, right? Well, here we are.
 There might be many things you are asking. "Why does this exist?" "Why did a 15yo girl learn to code?" Well,
 I can try to answer those question, but might not be able to.
 ---
