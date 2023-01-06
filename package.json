@@ -1,0 +1,24 @@
+{
+  "name": "project-alpha",
+  "version": "0.0.1",
+  "description": "This doesn't have anything currently, but will grow with time.",
+  "main": "LICENSE",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CloverTheHacker/Project-Alpha.git"
+  },
+  "keywords": [
+    "cloverthehacker",
+    "clover",
+    "project-alpha"
+  ],
+  "author": "Clover Jordan",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/CloverTheHacker/Project-Alpha/issues"
+  },
+  "homepage": "https://github.com/CloverTheHacker/Project-Alpha#readme"
+}
