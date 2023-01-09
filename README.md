@@ -5,7 +5,10 @@ I can try to answer those question, but might not be able to.
 
 ---
 
-There is currently nothing in this project, so if you come up with something, say it! I would love to hear your ideas!
+This is a basic username, password sort of thing. Default is the username is USERNAME, and password is PASSWORD. 
+to change it, go to node_modules/@cloverthehacker/project-alpha/Index.js and change the variable user to 
+whatever username you want, and pass to whatever password you want. to integrate, in the head of your html, put 
+in '<script src="node_modules/@cloverthehacker/project-alpha/Index.js"></script>' You will be good to go!
 
 ---
 
