@@ -4,7 +4,7 @@
   "description": "This doesn't have anything currently, but will grow with time.",
   "main": "LICENSE",
   "scripts": {
-    "test": "PROJECT-ALPHA/Index.js"
+    "test": "/Index.js"
   },
   "repository": {
     "type": "git",
