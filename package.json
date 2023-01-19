@@ -1,6 +1,6 @@
 {
   "name": "@cloverthehacker/project-alpha",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "This doesn't have anything currently, but will grow with time.",
   "main": "LICENSE",
   "scripts": {
@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/CloverTheHacker/Project-Alpha/issues"
   },
-  "homepage": "https://github.com/CloverTheHacker/Project-Alpha#readme"
+  "homepage": "https://github.com/CloverTheHacker/Project-Alpha#readme",
+  "devDependencies": {}
 }
