@@ -16,4 +16,3 @@ If you have any questions or requests, please contact me at theblackguard05@exec
 Please refer to /LICENSE for Licensing information. Thanks.
 
 Clover Jordan.
-But what happens if I push this?
